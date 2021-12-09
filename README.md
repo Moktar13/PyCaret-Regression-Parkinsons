@@ -1,1 +1,4 @@
 # PyCaret-Regression-Parkinsons
+
+Abstract
+The degenerative disease known as Parkinson’s is a brain disorder that gradually gets worse over time. In the past, detecting such diseases was difficult due to complex symptom association, and more often than not, by the time the disease was detected, it was too late for treatment. In situations like these, it’s critical to detect the early-onset signs of the disease so that the most effective treatment can be administered. One of the major advancements in technology for early-onset Parkinson’s detection is the usage of machine learning. By training multiple machine learning models across various techniques, methodologies, and data sets; a model is derived that can detect the disease with very high accuracy. In this project, PyCaret is used to train several machine learning models on a Parkinson’s dataset, and through refinement, the best model is derived.
